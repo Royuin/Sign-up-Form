@@ -16,6 +16,8 @@ html {
 
 .main-header {
   position: absolute;
+  display: flex;
+  align-items: center;
 }
 
 .rad {
