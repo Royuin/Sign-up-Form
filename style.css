@@ -23,6 +23,7 @@ html {
   background-color: rgba(20, 20, 20, 0.5);
   width: 40vw;
   top: 20%;
+  gap: 3%;
 }
 
 .rad {
