@@ -17,3 +17,7 @@ html {
 .main-header {
   position: absolute;
 }
+
+.rad {
+  width: 10vw;
+}
