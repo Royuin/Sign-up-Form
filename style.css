@@ -9,3 +9,7 @@ html {
   width: 40vw;
   height: 100vh;
 }
+
+.left-container {
+  position: relative;
+}
