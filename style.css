@@ -12,12 +12,15 @@ html {
 
 .left-container {
   position: relative;
+  display: flex;
 }
 
 .main-header {
   position: absolute;
   display: flex;
   align-items: center;
+  background-color: rgba(20, 20, 20, 0.5);
+  width: 40vw;
 }
 
 .rad {
