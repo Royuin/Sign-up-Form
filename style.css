@@ -5,6 +5,11 @@ html {
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "teko";
+  src: local("teko"), url(font/Teko-Regular.ttf);
+}
+
 .main-image {
   width: 40vw;
   height: 100vh;
