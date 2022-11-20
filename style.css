@@ -39,5 +39,5 @@ html {
 
 h1 {
   color: #fff;
-  font-size: 3vw;
+  font-size: clamp(1.5rem, 4vw, 100px);
 }
