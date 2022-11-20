@@ -4,6 +4,7 @@ html {
   margin: 0;
   box-sizing: border-box;
   font-family: "teko", sans-serif;
+  display: flex;
 }
 
 @font-face {
