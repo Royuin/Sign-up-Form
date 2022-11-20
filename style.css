@@ -47,3 +47,9 @@ h1 {
 .second-header {
   margin: 5.5rem 4rem;
 }
+
+form {
+  background-color: #333;
+  width: 60vw;
+  height: 50%;
+}
