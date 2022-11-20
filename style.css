@@ -43,3 +43,7 @@ h1 {
   color: #fff;
   font-size: clamp(1.5rem, 4vw, 100px);
 }
+
+.right-container {
+  margin: 5.5rem 4rem;
+}
