@@ -44,6 +44,6 @@ h1 {
   font-size: clamp(1.5rem, 4vw, 100px);
 }
 
-.right-container {
+.second-header {
   margin: 5.5rem 4rem;
 }
