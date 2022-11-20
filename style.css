@@ -53,3 +53,10 @@ form {
   width: 60vw;
   height: 50%;
 }
+
+input {
+  appearance: none;
+  border: none;
+  outline: none;
+  font-family: inherit;
+}
