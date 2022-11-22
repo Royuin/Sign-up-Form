@@ -66,6 +66,8 @@ input {
 
 .form-row {
   display: flex;
+  gap: 8%;
+  margin: 0 30% 0 8%;
 }
 
 .wrapper {
