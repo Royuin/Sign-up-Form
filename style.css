@@ -66,6 +66,7 @@ input {
   padding-left: 10px;
   border-radius: 3px;
   width: 225px;
+  box-shadow: inset 0px 0px 15px #222;
 }
 
 .form-row {
