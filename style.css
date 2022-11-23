@@ -64,6 +64,7 @@ input {
   height: 2rem;
   font-size: 1.25rem;
   padding-left: 10px;
+  border-radius: 3px;
 }
 
 .form-row {
