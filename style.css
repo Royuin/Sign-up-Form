@@ -76,7 +76,7 @@ input:focus:valid {
   color: #fff;
 }
 
-input:invalid {
+input:focus:invalid {
   background-color: #222;
   border: 2px solid #ff5555;
   box-shadow: inset 0px 0px 10px #ff5555;
