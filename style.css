@@ -113,3 +113,8 @@ button {
   color: #222;
   background-color: #ffcc33;
 }
+
+.zone {
+  color: #ffcc33;
+  border-bottom: 1px dashed #eee;
+}
