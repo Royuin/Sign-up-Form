@@ -128,3 +128,8 @@ button:hover {
 a {
   color: #30ffe0;
 }
+
+a:hover {
+  color: #ffcc33;
+  text-decoration: underline dashed #ffcc33;
+}
