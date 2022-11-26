@@ -133,3 +133,8 @@ a:hover {
   color: #ffcc33;
   text-decoration: underline dashed #ffcc33;
 }
+
+.link-paragraph {
+  margin-left: 5%;
+  font-size: 1.2rem;
+}
