@@ -112,6 +112,8 @@ button {
   font-size: 1.5rem;
   color: #222;
   background-color: #ffcc33;
+  border: 3px dashed #222;
+  box-shadow: inset 0px 0px 7px #eee;
 }
 
 .zone {
