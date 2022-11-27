@@ -144,3 +144,7 @@ a:hover {
   bottom: 0;
   font-size: 75%;
 }
+
+p {
+  line-height: 1.5;
+}
