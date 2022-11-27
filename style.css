@@ -138,3 +138,8 @@ a:hover {
   margin-left: 5%;
   font-size: 1.2rem;
 }
+
+.icon-credit {
+  position: absolute;
+  bottom: 0;
+}
