@@ -148,3 +148,8 @@ a:hover {
 p {
   line-height: 1.5;
 }
+
+.pass-match-span {
+  font-size: 0.85em;
+  color: #ff7b7b;
+}
