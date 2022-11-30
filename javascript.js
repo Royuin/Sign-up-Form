@@ -17,8 +17,8 @@ password.addEventListener("keyup", () => {
       confirmPassword.setCustomValidity("");
     } else {
       passMatchSpan.hidden = false;
-      password.setCustomValidity("does");
-      confirmPassword.setCustomValidity("does");
+      password.setCustomValidity("Passwords do not match");
+      confirmPassword.setCustomValidity("Passwords do not match");
     }
   }
 });
@@ -36,6 +36,8 @@ confirmPassword.addEventListener("keyup", () => {
       confirmPassword.setCustomValidity("");
     } else {
       passMatchSpan.hidden = false;
+      password.setCustomValidity("Passwords do not match");
+      confirmPassword.setCustomValidity("Passwords do not match");
     }
   }
 });
