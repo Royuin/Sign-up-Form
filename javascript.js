@@ -13,8 +13,12 @@ password.addEventListener("keyup", () => {
     const confirmPasswordValue = document.getElementById("pass-confirm").value;
     if (passwordValue === confirmPasswordValue) {
       passMatchSpan.hidden = true;
+      password.setCustomValidity("");
+      confirmPassword.setCustomValidity("");
     } else {
       passMatchSpan.hidden = false;
+      password.setCustomValidity("does");
+      confirmPassword.setCustomValidity("does");
     }
   }
 });
@@ -28,6 +32,8 @@ confirmPassword.addEventListener("keyup", () => {
     const confirmPasswordValue = document.getElementById("pass-confirm").value;
     if (passwordValue === confirmPasswordValue) {
       passMatchSpan.hidden = true;
+      password.setCustomValidity("");
+      confirmPassword.setCustomValidity("");
     } else {
       passMatchSpan.hidden = false;
     }
